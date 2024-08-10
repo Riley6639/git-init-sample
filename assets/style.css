@@ -1,0 +1,77 @@
+/* font of everything */
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* list elements */
+li {
+    display: inline;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+/* padding class */
+.padding {
+    padding: 50px;
+}
+
+/* header and footer elements */
+header,
+footer {
+    background-color: aquamarine;
+    line-height: 30px;
+    height: 60px;
+    width: 100%;
+}
+
+/* header element only */
+header {
+    position: fixed;
+    border-bottom: 10px solid darkcyan;
+    padding-top: 5px;
+    top: 0;
+}
+
+/* footer element onlyu */
+footer {
+    position: fixed;
+    border-top: 10px solid darkcyan;
+}
+
+/* text right class */
+.text-right {
+    text-align: right;
+    margin: 10px;
+}
+
+/* text center class  */
+.text-center {
+    text-align: center;
+}
+
+/* image element  */
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+/* form class  */
+.form {
+    display: inline-block;
+    width: 150px;
+}
+
+/* nav class  */
+.nav {
+    background-color: rgb(255, 252, 225);
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+    margin-right: 30px;
+}
+
+/* strong elements  */
+strong {
+    font-style: bold;
+    padding: 5px
+}
