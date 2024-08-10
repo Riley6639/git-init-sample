@@ -20,7 +20,7 @@ header,
 footer {
     background-color: aquamarine;
     line-height: 30px;
-    height: 60px;
+    height: 50px;
     width: 100%;
 }
 
@@ -36,6 +36,8 @@ header {
 footer {
     position: fixed;
     border-top: 10px solid darkcyan;
+    bottom: 0;
+    height: 30px;
 }
 
 /* text right class */
