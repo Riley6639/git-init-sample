@@ -81,7 +81,7 @@ strong {
 }
 
 /* button element  */
-button {
+.send {
     position: relative;
     height: 50px;
     width: 300px;
